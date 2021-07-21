@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "org.finepointcg.androidexportaab",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 3,
+        "versionName": "1.2.1",
+        "outputFile": "android_release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "org.finepointcg.androidexportaab",
+        "split": "",
+        "minSdkVersion": "18"
+      }
+    }
+  ]
+}
